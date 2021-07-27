@@ -5,16 +5,7 @@
 html {
   font-family: sans-serif;
 }
-.main-header {
-  height: 120px;
-  background-color: black;
-  color: white;
-  letter-spacing: 1.2px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-evenly;
-}
+
 body {
   margin: 0;
 }
