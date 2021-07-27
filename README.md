@@ -17,13 +17,17 @@
 
 ## Description
 
+DragAndDrop simple app that enables you to drag items after you have added them between two fields using Typescript.
+
 ## How to use
+
+First of all add new resource and then you can drag it between two fields.
 
 ## Built with
 
 - HTML5
-- CSS/SASS
-- Vanilla JavaScript
+- CSS
+- TypeScript
 
 ## Setup
 
