@@ -1,11 +1,12 @@
 {
-  "name": "Drag and Drop",
+  "name": "drag",
   "version": "1.0.0",
   "description": "Drag and Drop project",
-  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel serve index.html"
+    "start": "parcel serve index.html",
+    "build": "parcel build index.html",
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [
     "typescript",
@@ -14,6 +15,7 @@
   "author": "Dominik Siejka",
   "license": "ISC",
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "lite-server": "^2.5.4"
   }
 }

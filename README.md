@@ -2,9 +2,9 @@
 
 ## Demo
 
-[**click live demo of the project**](https://dominiksiejka.github.io/BillSplitterApp)
+[**click live demo of the project**](https://dominiksiejka.github.io/DragAndDrop)
 
-![DragAndDropApp preview](./assets/billsplitter.jpg)
+![DragAndDropApp preview](./assets/drag.jpg)
 
 ## Table of Contents
 
@@ -35,7 +35,7 @@ First of all add new resource and then you can drag it between two fields.
 with BASH
 
 # clone the remote repo to your local one
-$ git clone https://github.com/dominiksiejka/BillSplitterApp.git
+$ git clone https://github.com/dominiksiejka/DragAndDrop.git
 
 # open the index.html file or use your code editor to open it with live server
 
@@ -48,4 +48,4 @@ $ git clone https://github.com/dominiksiejka/BillSplitterApp.git
 
 ## License
 
-- MIT © [Dominik Siejka ](https://github.com/dominiksiejka/BillSplitterApp)
+- MIT © [Dominik Siejka ](https://github.com/dominiksiejka/DragAndDrop)
