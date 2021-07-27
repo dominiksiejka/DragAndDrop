@@ -5,7 +5,7 @@
 html {
   font-family: sans-serif;
 }
-header {
+.main-header {
   height: 120px;
   background-color: black;
   color: white;
