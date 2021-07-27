@@ -4,7 +4,7 @@
 
 [**click live demo of the project**](https://dominiksiejka.github.io/DragAndDrop)
 
-![DragAndDropApp preview](./assets/drag.jpg)
+![DragAndDropApp preview](./src/assets/drag.jpg)
 
 ## Table of Contents
 
